@@ -19,6 +19,15 @@ Instead of sending every request to a powerful cloud model, EcoCascade AI analyz
 
 # 🌍 Why This Project Matters
 
+# 🌍 Why This Project Matters
+
+Large Language Models are increasingly deployed in cloud data centers that consume significant amounts of electricity and cooling resources. Many everyday AI requests—such as grammar correction, summarization, text classification, and rewriting—do not require a large cloud-hosted model.
+
+EcoCascade AI introduces an intelligent routing layer that analyzes each prompt and decides whether it should be executed locally using lightweight Ollama models or sent to a cloud model such as Groq for advanced reasoning.
+
+By avoiding unnecessary cloud inference for simple tasks, EcoCascade AI demonstrates a more efficient and sustainable approach to AI deployment. The project focuses on reducing cloud dependency, improving privacy, lowering inference cost, supporting offline AI workflows, and encouraging edge-first AI architectures.
+
+
 Modern AI assistants frequently send **every prompt** to cloud-hosted models, even when the task is simple.
 
 This leads to:
@@ -94,10 +103,11 @@ EcoCascade AI demonstrates a smarter, **local-first** approach.
 Add screenshots under `/images`:
 
 - Home Dashboard
-- Prompt Analysis
-- Selected Route
+ ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
 - Complexity Score
+  ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
 - Final Response
+  ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
 
 ---
 
@@ -163,13 +173,20 @@ Design a scalable AI architecture for a hospital.
 
 # 📈 Potential Impact
 
-- Reduce unnecessary cloud inference
-- Lower API cost
-- Improve response latency
-- Improve privacy
-- Enable offline AI
-- Encourage Edge AI
-- Demonstrate sustainable AI engineering
+✅ Reduce unnecessary cloud inference
+
+✅ Lower API cost
+
+✅ Improve response latency
+
+✅ Improve privacy
+
+✅ Enable offline AI
+
+✅ Encourage Edge AI
+
+✅ Demonstrate sustainable AI engineering
+
 
 ---
 
@@ -203,6 +220,7 @@ Design a scalable AI architecture for a hospital.
 AI • Machine Learning • Explainable AI • Edge AI
 
 GitHub: https://github.com/tanishqkolhatkar93
+linkedln : https://www.linkedin.com/in/tanishq93/
 
 ---
 
