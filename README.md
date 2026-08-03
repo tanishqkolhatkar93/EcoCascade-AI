@@ -19,8 +19,6 @@ Instead of sending every request to a powerful cloud model, EcoCascade AI analyz
 
 # 🌍 Why This Project Matters
 
-# 🌍 Why This Project Matters
-
 Large Language Models are increasingly deployed in cloud data centers that consume significant amounts of electricity and cooling resources. Many everyday AI requests—such as grammar correction, summarization, text classification, and rewriting—do not require a large cloud-hosted model.
 
 EcoCascade AI introduces an intelligent routing layer that analyzes each prompt and decides whether it should be executed locally using lightweight Ollama models or sent to a cloud model such as Groq for advanced reasoning.
@@ -105,7 +103,7 @@ Add screenshots under `/images`:
 - Home Dashboard
  ![Alt Text](https://github.com/tanishqkolhatkar93/EcoCascade-AI/blob/main/Screenshot%202026-08-03%20124144.png)
 - Complexity Score
-  ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
+  ![Alt Text](https://github.com/tanishqkolhatkar93/EcoCascade-AI/blob/main/Screenshot%202026-08-03%20124144.png)
 - Final Response
   ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
 
