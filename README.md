@@ -1,4 +1,4 @@
-# 🌿 EcoCascade AI — Smart Hybrid AI Router for Sustainable Inference
+#  🌿 EcoCascade AI — Smart Hybrid AI Router for Sustainable Inference
 
 > **Energy-Aware • Cost-Aware • Privacy-Aware • Edge-First AI**
 
