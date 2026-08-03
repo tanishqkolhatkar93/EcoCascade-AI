@@ -105,7 +105,7 @@ Add screenshots under `/images`:
 - Complexity Score
   ![Alt Text](https://github.com/tanishqkolhatkar93/EcoCascade-AI/blob/main/Screenshot%202026-08-03%20124144.png)
 - Final Response
-  ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
+  ![Alt Text](https://github.com/tanishqkolhatkar93/EcoCascade-AI/blob/main/Screenshot%202026-08-03%20124129.png)
 
 ---
 
