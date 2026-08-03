@@ -103,7 +103,7 @@ EcoCascade AI demonstrates a smarter, **local-first** approach.
 Add screenshots under `/images`:
 
 - Home Dashboard
- ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
+ ![Alt Text](https://github.com/tanishqkolhatkar93/EcoCascade-AI/blob/main/Screenshot%202026-08-03%20124144.png)
 - Complexity Score
   ![Alt Text](https://github.com/user/repo/raw/main/images/my-image.png)
 - Final Response
